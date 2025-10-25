@@ -24,8 +24,8 @@ Neste processo eu aprendi:
 - [x] Configurar as variáveis de ambiente
 - [x] Criar uma Migration usando Entity Framework
 - [x] Gerar o banco de dados
-- [ ] Executar a aplicação
-- [ ] Testar a aplicação
+- [x] Executar a aplicação
+- [x] Testar a aplicação
 
 ## Sobre o Caça aos Bugs
 
